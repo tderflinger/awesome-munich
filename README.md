@@ -7,8 +7,6 @@ Links and books to all things Munich, Germany in English.
 * Munich Travel: https://www.munich.travel/en-gb
 * Wikipedia: https://en.wikipedia.org/wiki/Munich
 
-## Quarters
-
 ## Museums
 
 ## Parks
@@ -44,3 +42,5 @@ Links and books to all things Munich, Germany in English.
 ## Art Galleries
 
 ## Books
+
+## Boroughs
