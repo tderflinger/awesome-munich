@@ -3,7 +3,7 @@ Links and books to all things Munich, Germany in English.
 
 ## General
 
-* Offical site of city of Munich: https://www.muenchen.de/int/en.html
+* Official site of city of Munich: https://www.muenchen.de/int/en.html
 * Munich Travel: https://www.munich.travel/en-gb
 * Wikipedia: https://en.wikipedia.org/wiki/Munich
 
