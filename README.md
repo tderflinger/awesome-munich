@@ -42,6 +42,8 @@ Links and books to all things Munich, Germany in English.
 
 ## Art Galleries
 
-## Books
-
 ## Boroughs
+
+## Videos
+
+## Books
