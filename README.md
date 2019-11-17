@@ -9,6 +9,7 @@ Links and books to all things Munich, Germany in English.
 ## Quarters
 
 
+## Museums
 
 ## Restaurants
 
@@ -22,8 +23,19 @@ Links and books to all things Munich, Germany in English.
 
 ### Burgers
 
+### Korean
+
+### Vietnamese
+
+### Indian
+
+### Thai
 
 ## Bars
 
 ## Hotels
 
+## Bookshops
+
+
+## Books
