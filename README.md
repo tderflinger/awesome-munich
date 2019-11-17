@@ -13,6 +13,8 @@ Links and books to all things Munich, Germany in English.
 
 ## Parks
 
+## Cafés
+
 ## Restaurants
 
 ### Bavarian
@@ -38,5 +40,7 @@ Links and books to all things Munich, Germany in English.
 ## Hotels
 
 ## Bookshops
+
+## Art Galleries
 
 ## Books
