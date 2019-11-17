@@ -1,15 +1,17 @@
 # awesome-munich
 Links and books to all things Munich, Germany in English.
 
-## City of Munich
+## General
 
 * Offical site of city of Munich: https://www.muenchen.de/int/en.html
-* Munich Travel https://www.munich.travel/en-gb
+* Munich Travel: https://www.munich.travel/en-gb
+* Wikipedia: https://en.wikipedia.org/wiki/Munich
 
 ## Quarters
 
-
 ## Museums
+
+## Parks
 
 ## Restaurants
 
@@ -36,6 +38,5 @@ Links and books to all things Munich, Germany in English.
 ## Hotels
 
 ## Bookshops
-
 
 ## Books
