@@ -33,8 +33,8 @@ Links and books to all things Munich, Germany in English.
 * Münchner Stadtmuseum: https://www.muenchner-stadtmuseum.de/en.html
 * Beer and Oktoberfest Museum: https://www.bier-und-oktoberfestmuseum.de/en/
 * Museum of Man and Nature: http://www.mmn-muenchen.de/
-* German Hunting and Fishing Museum: http://www.jagd-fischerei-museum.de/
-* Valentin Karlstadt Musäum: https://www.valentin-musaeum.de/de/freunde.php
+* German Hunting and Fishing Museum (in German): http://www.jagd-fischerei-museum.de/
+* Valentin Karlstadt Musäum (in German): https://www.valentin-musaeum.de/de/freunde.php
 * Museum of Urban and Contemporary Art: https://www.muca.eu/en/
 * Reich der Kristalle: http://www.mineralogische-staatssammlung.de/index.php/en/
 
