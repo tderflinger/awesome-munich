@@ -36,6 +36,7 @@ Links and books to all things Munich, Germany in English.
 * German Hunting and Fishing Museum: http://www.jagd-fischerei-museum.de/
 * Valentin Karlstadt Musäum: https://www.valentin-musaeum.de/de/freunde.php
 * Museum of Urban and Contemporary Art: https://www.muca.eu/en/
+* Reich der Kristalle: http://www.mineralogische-staatssammlung.de/index.php/en/
 
 ## Parks
 
