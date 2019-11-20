@@ -44,6 +44,7 @@ Links and books to all things Munich, Germany in English.
 * Westpark: https://en.wikipedia.org/wiki/Westpark_(Munich)
 * Ostpark: https://en.wikipedia.org/wiki/Ostpark_(Munich)
 * Olympiapark: https://www.olympiapark.de/en/olympiapark-munich/
+* Kabinettsgarten: https://en.wikipedia.org/wiki/Kabinettsgarten
 * Luitpoldpark: https://en.wikipedia.org/wiki/Luitpoldpark
 * Schlosspark Nymphenburg: https://en.wikipedia.org/wiki/Nymphenburg_Palace
 * Alter Botanischer Garten: https://en.wikipedia.org/wiki/Alter_Botanischer_Garten_(Munich)
@@ -51,6 +52,9 @@ Links and books to all things Munich, Germany in English.
 * Riemer Park (in German): https://de.wikipedia.org/wiki/Riemer_Park
 * Maximiliansanlagen (in German): https://de.wikipedia.org/wiki/Maximiliansanlagen
 * Taxispark (in German): https://de.wikipedia.org/wiki/Taxispark
+* Forstenrieder Park (in German): https://de.wikipedia.org/wiki/Forstenrieder_Park
+* Südpark (in German): https://de.wikipedia.org/wiki/S%C3%BCdpark_(M%C3%BCnchen)
+* Pasinger Stadtpark (in German): https://de.wikipedia.org/wiki/Pasinger_Stadtpark
 
 ## Cafés
 
