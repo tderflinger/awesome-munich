@@ -40,6 +40,14 @@ Links and books to all things Munich, Germany in English.
 
 ## Parks
 
+* Englischer Garten: https://en.wikipedia.org/wiki/Englischer_Garten
+* Westpark: https://en.wikipedia.org/wiki/Westpark_(Munich)
+* Ostpark: https://en.wikipedia.org/wiki/Ostpark_(Munich)
+* Olympiapark: https://www.olympiapark.de/en/olympiapark-munich/
+* Luitpoldpark: https://en.wikipedia.org/wiki/Luitpoldpark
+* Bavariapark (in German): https://de.wikipedia.org/wiki/Bavariapark 
+* Riemer Park (in German): https://de.wikipedia.org/wiki/Riemer_Park
+
 ## Cafés
 
 ## Restaurants
