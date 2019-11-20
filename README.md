@@ -45,6 +45,8 @@ Links and books to all things Munich, Germany in English.
 * Ostpark: https://en.wikipedia.org/wiki/Ostpark_(Munich)
 * Olympiapark: https://www.olympiapark.de/en/olympiapark-munich/
 * Luitpoldpark: https://en.wikipedia.org/wiki/Luitpoldpark
+* Schlosspark Nymphenburg: https://en.wikipedia.org/wiki/Nymphenburg_Palace
+* Alter Botanischer Garten: https://en.wikipedia.org/wiki/Alter_Botanischer_Garten_(Munich)
 * Bavariapark (in German): https://de.wikipedia.org/wiki/Bavariapark 
 * Riemer Park (in German): https://de.wikipedia.org/wiki/Riemer_Park
 
