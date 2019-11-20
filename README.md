@@ -49,6 +49,8 @@ Links and books to all things Munich, Germany in English.
 * Alter Botanischer Garten: https://en.wikipedia.org/wiki/Alter_Botanischer_Garten_(Munich)
 * Bavariapark (in German): https://de.wikipedia.org/wiki/Bavariapark 
 * Riemer Park (in German): https://de.wikipedia.org/wiki/Riemer_Park
+* Maximiliansanlagen (in German): https://de.wikipedia.org/wiki/Maximiliansanlagen
+* Taxispark (in German): https://de.wikipedia.org/wiki/Taxispark
 
 ## Cafés
 
