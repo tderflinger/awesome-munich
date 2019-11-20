@@ -48,6 +48,7 @@ Links and books to all things Munich, Germany in English.
 * Luitpoldpark: https://en.wikipedia.org/wiki/Luitpoldpark
 * Schlosspark Nymphenburg: https://en.wikipedia.org/wiki/Nymphenburg_Palace
 * Alter Botanischer Garten: https://en.wikipedia.org/wiki/Alter_Botanischer_Garten_(Munich)
+* Petuelpark: https://en.wikipedia.org/wiki/Petuelpark
 * Bavariapark (in German): https://de.wikipedia.org/wiki/Bavariapark 
 * Riemer Park (in German): https://de.wikipedia.org/wiki/Riemer_Park
 * Maximiliansanlagen (in German): https://de.wikipedia.org/wiki/Maximiliansanlagen
