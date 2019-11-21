@@ -59,6 +59,8 @@ Links and books to all things Munich, Germany in English.
 
 ## Cafés
 
+[List of Cafés](./cafes.md)
+
 ## Restaurants
 
 ### Bavarian
