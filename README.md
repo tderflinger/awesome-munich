@@ -83,6 +83,8 @@ Links and books to all things Munich, Germany in English.
 
 ## Bars
 
+[List of Bars](./bars.md)
+
 ## Hotels
 
 ## Bookshops
