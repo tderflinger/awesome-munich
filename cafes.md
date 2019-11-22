@@ -1,6 +1,6 @@
 # List of Cafés in Munich
 
-Most sites are in German.
+Most web sites are in German.
 
 * Café Jasmin: https://www.cafe-jasmin.com/
 * Café am Beethovenplatz: https://www.mariandl.com/en/
@@ -17,3 +17,7 @@ Most sites are in German.
 * Café Münchner Freiheit: https://muenchner-freiheit.de/cafes/
 * Café Puck: http://cafe-puck.de/
 * Café Blücher: https://www.bluecher-bar.de/
+
+Big Brands (multiple branches in Munich):
+* San Francisco Coffee: https://www.sfcc.de/
+* Starbucks: https://www.starbucks.de/
