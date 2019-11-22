@@ -16,6 +16,7 @@ Schwabing
 Haidhausen
 
 * Barroom: http://www.barroom-muenchen.de/
+* Negroni Bar: http://www.negronibar.de/
 * Maria Passagne: http://maria-passagne.de
 * Boulevardier: https://www.facebook.com/barboulevardier/
 * Polka Bar: http://www.polka-polka.de/?page_id=35
