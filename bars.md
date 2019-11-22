@@ -12,3 +12,15 @@ Schwabing
 * Trumpf oder Kritisch: https://www.trumpf-oder-kritisch.de/
 * Agnes Bar: https://www.facebook.com/agnesbarmuc/
 * Wallace Bar: https://www.facebook.com/wallacebarmuenchen/
+
+Haidhausen
+
+* Barroom: http://www.barroom-muenchen.de/
+* Maria Passagne: http://maria-passagne.de
+* Boulevardier: https://www.facebook.com/barboulevardier/
+* Polka Bar: http://www.polka-polka.de/?page_id=35
+* Bar of Bel Air: https://www.facebook.com/belairbar/
+* Vivo München: http://vivo-muenchen.de
+* Mezzanotte: http://www.mezzanotte.de.com/
+* Tap House: http://www.tap-house.de/en/
+* Johannis Café
