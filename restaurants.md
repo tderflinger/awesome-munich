@@ -57,7 +57,9 @@ Most of the sites are in German.
 * Le Cézanne: https://www.le-cezanne.de/ 
 * Buffet Kull: https://www.buffet-kull.de/ 
 
-### Burgers
+### Spanish
+
+### Mexican
 
 ### Korean
 
@@ -67,3 +69,4 @@ Most of the sites are in German.
 
 ### Thai
 
+### Burgers
