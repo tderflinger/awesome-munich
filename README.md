@@ -63,23 +63,7 @@ Links and books to all things Munich, Germany in English.
 
 ## Restaurants
 
-### Bavarian
-
-### Austrian
-
-### Italian
-
-### French
-
-### Burgers
-
-### Korean
-
-### Vietnamese
-
-### Indian
-
-### Thai
+[List of Restaurants](./restaurants.md)
 
 ## Bars
 
