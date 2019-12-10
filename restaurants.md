@@ -31,7 +31,13 @@
 * Ristorante la Villa: http://www.la-villa.eu/la-villa.eu/La_Villa.html (in German)
 * Ristorante Il Grappolo: https://www.il-grappolo.de/ (in German)
 * Acquarello: http://acquarello.de/en/
-
+* Quattro Tavoli: http://www.quattrotavoli.com (in German)
+* Al Paladino: http://www.alpaladino.de (in German)
+* Pizzesco: http://www.pizzesco.com/ (in German)
+* Villa Dante: https://villa-dante.de/ (in German)
+* Solo Pizza: https://www.solopizza.de/ (in German)
+* Saffer's Fattoria: http://saffers-fattoria.de/ (in German)
+* Eataly: https://www.eataly.net/de_de/geschaefte/muenchen/ (in German)
 
 ### French
 
