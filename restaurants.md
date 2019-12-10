@@ -52,6 +52,8 @@
 * Brasserie La Bouche: https://brasserie-labouche.de (in German)
 * Maison Massard: http://www.maison-massard.de (in German)
 * Le Refuge: https://www.le-refuge.de/en/index.php
+* Le Cézanne: https://www.le-cezanne.de/ (in German)
+* Buffet Kull: https://www.buffet-kull.de/ 
 
 ### Burgers
 
