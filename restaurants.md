@@ -2,6 +2,17 @@
 
 ### Bavarian
 
+* Augustiner Bräustuben: http://www.braeustuben.de/en/
+* Osterwaldgarten: https://www.schwabinger-osterwaldgarten.de/ (in German)
+* Weisses Bräuhaus im Tal: http://www.schneider-brauhaus.de/en/home-en/
+* Gaststätte Grossmarkthalle: http://www.gaststätte-grossmarkthalle.de/ (in German)
+* Ratskeller: https://www.ratskeller.com/
+* Wirtshaus in der Au: https://wirtshausinderau.de/en/
+* Spatenhaus an der Oper: https://www.kuffler.de/en/restaurant/spatenhaus/
+* Wirtshaus Hohenwart: http://hohenwart.net/
+* Hofbräukeller: https://www.hofbraeukeller.de/
+
+
 ### Austrian
 
 ### Italian
