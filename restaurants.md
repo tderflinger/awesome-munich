@@ -9,9 +9,9 @@
 * Ratskeller: https://www.ratskeller.com/
 * Wirtshaus in der Au: https://wirtshausinderau.de/en/
 * Spatenhaus an der Oper: https://www.kuffler.de/en/restaurant/spatenhaus/
-* Wirtshaus Hohenwart: http://hohenwart.net/
-* Hofbräukeller: https://www.hofbraeukeller.de/
-
+* Wirtshaus Hohenwart: http://hohenwart.net/ (in German)
+* Hofbräukeller: https://www.hofbraeukeller.de/ (in German)
+* Paulaner am Nockherberg: https://paulaner-nockherberg.com/restaurant-and-beer-garden/
 
 ### Austrian
 
