@@ -1,4 +1,5 @@
 # List of Restaurants in Munich
+[<- Back to Main List](./README.md)
 
 ### Bavarian
 
