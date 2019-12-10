@@ -15,6 +15,12 @@
 
 ### Austrian
 
+* Österia: http://www.oesteria.de/heute.php (in German)
+* Ö1: https://www.öeins.de/ (in German)
+* Freisinger Hof: https://www.freisinger-hof.de/en/restaurant/
+* Waldfee: http://www.waldfee-muenchen.de/ (in German)
+
+
 ### Italian
 
 ### French
