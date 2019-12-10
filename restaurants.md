@@ -23,6 +23,16 @@
 
 ### Italian
 
+* Ristorante Cleo: https://www.cleo-ristorante.de/ (in German)
+* Pizzeria Monaco: http://pizzeriamonaco.de/ (in German)
+* Terre di Toscana: https://www.terreditoscana.de/ (in German)
+* Hippocampus: https://www.hippocampus-restaurant.de/ (in German)
+* Restaurante Bruno: https://www.restaurante-bruno.com/ (in German)
+* Ristorante la Villa: http://www.la-villa.eu/la-villa.eu/La_Villa.html (in German)
+* Ristorante Il Grappolo: https://www.il-grappolo.de/ (in German)
+* Acquarello: http://acquarello.de/en/
+
+
 ### French
 
 ### Burgers
