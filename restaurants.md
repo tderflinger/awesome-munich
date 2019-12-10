@@ -35,6 +35,17 @@
 
 ### French
 
+* Rue des Halles: http://www.ruedeshalles.de/ (in German)
+* M Belleville: http://www.m-belleville.com/ (in German)
+* L'Adresse 37: https://ladresse37.de/ (in German)
+* Chez Fritz: https://chezfritz.de/ (in German)
+* Le Faubourg: https://le-faubourg.de/ (in German)
+* Brasserie Colette: hhttps://www.brasseriecolette.de/en/muenchen
+* Marais Soir: https://marais-soir.de/ (in German)
+* Brasserie La Bouche: https://brasserie-labouche.de (in German)
+* Maison Massard: http://www.maison-massard.de (in German)
+* Le Refuge: https://www.le-refuge.de/en/index.php
+
 ### Burgers
 
 ### Korean
