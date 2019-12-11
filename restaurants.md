@@ -69,6 +69,11 @@ Most of the sites are in German.
 
 ### Korean
 
+* Arisu: http://www.a-ri-su.de/
+* Zum Koreaner
+* Kim's Restaurant: https://www.facebook.com/pages/Kims-koreanisches-Restaurant/181444375236220
+* Yuyumi: https://www.yuyumi.de/en/munich-gaertnerplatz/
+
 ### Vietnamese
 
 ### Indian
