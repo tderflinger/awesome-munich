@@ -59,6 +59,12 @@ Most of the sites are in German.
 
 ### Spanish
 
+* Amistad: https://www.amistad.bar/
+* Bar Barna: http://barnabar.com/
+* Teatro Bar Tapas: https://www.teatro-bar-tapas.de/
+* Bodega Dalí: http://bodega-dali.de/
+* Dios Minga: http://diosminga.de/
+
 ### Mexican
 
 ### Korean
