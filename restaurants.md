@@ -84,4 +84,12 @@ Most of the sites are in German.
 
 ### Thai
 
+* Spicery: https://www.spicery.asia/
+* Rabiang Thai: https://www.rabiangthai.de/
+* Nam Nam: https://www.nam-nam.eu/
+* Lotus Lounge: http://www.lotuslounge.eu/
+* Rüen Thai: http://www.rueen-thai.de/
+* Be Thai Style: https://www.bethaistyle.de/
+* Ratchada: http://www.ratchada.de/
+
 ### Burgers
