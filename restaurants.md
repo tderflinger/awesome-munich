@@ -67,6 +67,10 @@ Most of the sites are in German.
 
 ### Mexican
 
+* La Fiesta Cantina y Bar Mexicano: https://lafiesta-bar.de/
+* Condesa Tacos: http://www.condesa-gourmet-tacos.de
+* El Gordo Loco: https://www.elgordoloco.de/
+
 ### Korean
 
 * Arisu: http://www.a-ri-su.de/
