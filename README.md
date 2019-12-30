@@ -107,4 +107,4 @@ Links and books to all things Munich, Germany in English.
 
 ## Videos
 
-## Books
+## Literature
