@@ -80,6 +80,17 @@ Most of the sites are in German.
 
 ### Vietnamese
 
+* Madame Hu: http://www.madame-hu.com/
+* Chi Thu: http://www.chithu.de/
+* Ja Mai: http://www.ja-mai.com/
+* Thúy Vietnam: http://www.thuysvietnam.de/
+* Shami Kitchen: http://www.shami-kitchen.de/home.html
+* DuDu: http://www.dudu-restaurant.de/pages/index.php
+* Thao: http://www.thao36.de/
+* Fei Scho: http://feischo.com/
+* Bami House: https://www.bamihouse.de/
+* Cyclo: http://www.cyclo-restaurant.de/
+
 ### Indian
 
 ### Thai
