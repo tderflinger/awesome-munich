@@ -126,6 +126,7 @@ Most of the sites are in German.
 * Ca-Ba-Lu: http://ca-ba-lu.de/
 * Burger House: https://theburgerhouse.com/
 * Drunken Cow: http://www.drunkencow.de/
+* Hans im Glück: https://hansimglueck-burgergrill.de/
 
 ### Turkish
 
