@@ -75,6 +75,29 @@ Links and books to all things Munich, Germany in English.
 
 * Hugendubel: https://www.hugendubel.de/de/filialfinder?geo-search=m%C3%BCnchen
 * Buch Perthel: http://buchperthel.de/
+* Buchpalast: https://buchpalastmuenchen.de/
+* Glatteis Krimi: https://www.glatteis-krimi.de/
+* Wortwahl: https://wortwahl.mux.de/
+* Isarflimmern: https://www.genialokal.de/buchhandlung/muenchen/isar-flimmern/
+* Literatur Moths: https://li-mo.com/
+* Buchhandlung Georg Blendl: https://www.bgb-online.de/
+* Buch Lentner: https://buchlentner.buchkatalog.de/
+* Haidhauser Buchladen: https://haidhauserbuchladen.de/
+* Buchhandlung Horne: http://www.buchhandlung-horne.de/
+* Liebig Buchhandlung: http://www.liebig-buchhandlung.de/
+* Buchhandlung Rupprecht: https://www.rupprecht.de/shop/
+* Buchhandlung Walter König: https://www.buchhandlung-walther-koenig.de/koenig2/index.php?mode=start
+* Tucholsky Buchhandlung: https://www.tucholskybuchhandlung.de/
+* Librería Espanola: http://www.libreria-espanola-munich.de/
+* Buch & Töne: http://www.buchundtoene.com/home.html
+* Büchergalerie Westend: http://www.buechergalerie-westend.de/
+* Sendlinger Buchhandlung: https://www.sendlinger-buchhandlung.de/
+* Buchhandlung Biazza: https://biazzamedien.de/
+* Lese & Lebe: https://leseundlebe.buchhandlung.de/shop/
+* Buchhandlung Oertzen: https://oertzenbuch.buchhandlung.de/shop/
+* Christian Schmidt Fachbuchhandlung: http://www.christian-schmidt.com/
+* Buchhandlung Huth: https://buchhandlung-huth.buchkatalog.de/
+* Buchhandlung Eberl: https://eberl.buchhandlung.de/shop/
 
 
 ## Art Galleries
