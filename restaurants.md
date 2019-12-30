@@ -90,10 +90,13 @@ Most of the sites are in German.
 * Fei Scho: http://feischo.com/
 * Bami House: https://www.bamihouse.de/
 * Cyclo: http://www.cyclo-restaurant.de/
+* Bonjour Vietnam: https://www.bonjour-vietnam.de/
+* Cochinchina: http://www.cochinchina.de
 
 ### Indian
 
 * Mataji's Kitchen: https://matajis-kitchen.de/
+* Kerala: http://kerala-restaurant.de/
 * Indian Mango: http://indian-mango-specials.de/
 * Ganga: https://www.gangarestaurant.com/
 * Dhaba: http://www.dhaba.de/
@@ -101,7 +104,6 @@ Most of the sites are in German.
 * Palast der Winde: https://palastderwinde.de/
 * Ayurveda: http://www.restaurantayurveda.com/
 * Ashoka: https://www.ashoka-indiancuisine.de/
-
 
 ### Thai
 
@@ -130,4 +132,9 @@ Most of the sites are in German.
 ### Japanese
 
 * Nomiya: https://www.nomiya.de/
+* Haguruma: http://www.restaurant-haguruma.de/
+* Tenmaya: http://www.tenmaya.de/
+* Koi: www.koi-restaurant.d
+* Kushitei: http://www.kushitei.de/
+* Toshi: https://www.toshi-muenchen.de/
 
