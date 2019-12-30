@@ -91,5 +91,6 @@ Most of the sites are in German.
 * Rüen Thai: http://www.rueen-thai.de/
 * Be Thai Style: https://www.bethaistyle.de/
 * Ratchada: http://www.ratchada.de/
+* Rüen Thong: http://www.ruenthong.de/
 
 ### Burgers
