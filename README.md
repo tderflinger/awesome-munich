@@ -98,6 +98,7 @@ Links and books to all things Munich, Germany in English.
 * Christian Schmidt Fachbuchhandlung: http://www.christian-schmidt.com/
 * Buchhandlung Huth: https://buchhandlung-huth.buchkatalog.de/
 * Buchhandlung Eberl: https://eberl.buchhandlung.de/shop/
+* CoLibris Buchhandlung: https://colibris.buchhandlung.de/shop/
 
 
 ## Art Galleries
