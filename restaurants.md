@@ -49,7 +49,7 @@ Most of the sites are in German.
 * L'Adresse 37: https://ladresse37.de/
 * Chez Fritz: https://chezfritz.de/ 
 * Le Faubourg: https://le-faubourg.de/ 
-* Brasserie Colette: hhttps://www.brasseriecolette.de/en/muenchen
+* Brasserie Colette: https://www.brasseriecolette.de/en/muenchen
 * Marais Soir: https://marais-soir.de/ 
 * Brasserie La Bouche: https://brasserie-labouche.de 
 * Maison Massard: http://www.maison-massard.de
@@ -93,6 +93,16 @@ Most of the sites are in German.
 
 ### Indian
 
+* Mataji's Kitchen: https://matajis-kitchen.de/
+* Indian Mango: http://indian-mango-specials.de/
+* Ganga: https://www.gangarestaurant.com/
+* Dhaba: http://www.dhaba.de/
+* Natraj: http://www.natrajmuenchen.de/
+* Palast der Winde: https://palastderwinde.de/
+* Ayurveda: http://www.restaurantayurveda.com/
+* Ashoka: https://www.ashoka-indiancuisine.de/
+
+
 ### Thai
 
 * Spicery: https://www.spicery.asia/
@@ -105,3 +115,19 @@ Most of the sites are in German.
 * Rüen Thong: http://www.ruenthong.de/
 
 ### Burgers
+
+* Holy Burger: https://www.holyburgergrill.de/
+* King Loui: https://www.king-loui.com/
+* Ruff's Burger: https://www.ruffsburger.de
+* M.C. Mueller: https://www.mcmueller.org/
+* Der kleine Flo: https://derkleineflo.de/
+* Ca-Ba-Lu: http://ca-ba-lu.de/
+* Burger House: https://theburgerhouse.com/
+* Drunken Cow: http://www.drunkencow.de/
+
+### Turkish
+
+### Japanese
+
+* Nomiya: https://www.nomiya.de/
+
