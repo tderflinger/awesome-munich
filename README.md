@@ -73,6 +73,10 @@ Links and books to all things Munich, Germany in English.
 
 ## Bookshops
 
+* Hugendubel: https://www.hugendubel.de/de/filialfinder?geo-search=m%C3%BCnchen
+* Buch Perthel: http://buchperthel.de/
+
+
 ## Art Galleries
 
 ## Boroughs
