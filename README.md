@@ -133,5 +133,20 @@ Kleine Geschichte Münchens, Reinhard Bauer, Ernst Piper, Deutscher Taschenbuch 
 
 Harlaching und die Menterschwaige, Dorle Gribl, Buchendorfer Verlag, 2004
 
+München. Eine Stadt in Biographien, Franziska Sperr, Travel House Media, 2013
+
+München abseits der Pfade, Franz Klug, Braumüller, 2016
+
+Geschichte der Stadt München, Georg Reichlmayr, Sutton Verlag, 2018
+
+Maxvorstadt. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2012
+
+Haidhausen. Reüseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2013
+
+Giesing. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2014
+
+Schwabing. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2016
+
+
 
 
