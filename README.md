@@ -147,6 +147,15 @@ Giesing. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2014
 
 Schwabing. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2016
 
+Münchens vergessene Kellerstadt, Astrid Assél, Christian Huber, Verlag Friedrich Pustet, 2016
+
+Münchner Stadtbäche, Franz Schiermeier, Franz Schiermeier Verlag, 2012
+
+Sendlinger G'schichten, Sigi Sommer, Allitera Verlag, 2014
+
+Schwabing, Michael Stephan, Willibald Karl, Volk Verlag, 2015
+
+Haidhausen im Jahrhundert der Cholera-Epidemien, Johann Baier, Haidhausen Verlag, 1988
 
 
 
