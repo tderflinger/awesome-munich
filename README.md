@@ -109,12 +109,24 @@ Links and books to all things Munich, Germany in English.
 
 ## Literature
 
-Most literature is in German
+Most literature is in German.
 
-Die Münchner Oberbürgermeister, Friedrich H. Hettler, Achim Sing, Volk Verlag, München, 2008
+Die Münchner Oberbürgermeister, Friedrich H. Hettler, Achim Sing, Volk Verlag, 2008
 
 Von Allach bis Zamilapark, Helmuth Stahleder, Buchendorfer Verlag, 2001
 
 Jüdisches München, Alexander Kluy, Mandelbaum Verlag, 2009
+
+Architekurführer München, Winfried Nerdinger, 3rd edition, Dietrich Reimer Verlag, 2007
+
+München. Ein Begleiter zu neuer Landschaftsarchitektur, Max Leuprecht, Callwey, 2005
+
+Haidhausen vom Ende des Zweiten Weltkriegs bis zum Beginn der 1990er Jahre, Hermann Wilhelm, Haidhauser Hefte, 2017
+
+München Haidhausen, Hermann Wilhelm, MünchenVerlag, 2009
+
+München Schwabing, Gernot Brauer, MünchenVerlag, 2010
+
+
 
 
