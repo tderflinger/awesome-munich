@@ -125,8 +125,13 @@ Haidhausen vom Ende des Zweiten Weltkriegs bis zum Beginn der 1990er Jahre, Herm
 
 München Haidhausen, Hermann Wilhelm, MünchenVerlag, 2009
 
+Wiedersehen mit Haidhausen, Sabine Jörg, Volk Verlag, 2015
+
 München Schwabing, Gernot Brauer, MünchenVerlag, 2010
 
+Kleine Geschichte Münchens, Reinhard Bauer, Ernst Piper, Deutscher Taschenbuch Verlag, 2008
+
+Harlaching und die Menterschwaige, Dorle Gribl, Buchendorfer Verlag, 2004
 
 
 
