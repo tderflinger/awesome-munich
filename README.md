@@ -108,3 +108,11 @@ Links and books to all things Munich, Germany in English.
 ## Videos
 
 ## Literature
+
+Most literature is in German
+
+Die Münchner Oberbürgermeister, Friedrich H. Hettler, Achim Sing, Volk Verlag, München, 2008
+Von Allach bis Zamilapark, Helmuth Stahleder, Buchendorfer Verlag, 2001
+Jüdisches München, Alexander Kluy, Mandelbaum Verlag, 2009
+
+
