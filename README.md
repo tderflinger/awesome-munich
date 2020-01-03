@@ -157,5 +157,11 @@ Schwabing, Michael Stephan, Willibald Karl, Volk Verlag, 2015
 
 Haidhausen im Jahrhundert der Cholera-Epidemien, Johann Baier, Haidhausen Verlag, 1988
 
+111 Orte in München die Geschichte erzählen, Rüdiger Liedtke, Emons Verlag, 2018
 
+111 Orte in München die man gesehen haben muss, Rüdiger Liedtke, Emons Verlag, 2014
+
+111 Orte in München die man gesehen haben muss, Band 2, Rüdiger Liedtke, Emons Verlag, 2014
+
+Handbuch der deutschen Kunstdenkmäler, Bayern IV: München und Oberbayern, Deutscher Kunstverlag, 2006
 
