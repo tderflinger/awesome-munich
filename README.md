@@ -136,7 +136,16 @@ Links and books to all things Munich, Germany in English.
 * Galerie Max Weber Six Friedrich: http://maxwebersixfriedrich.com/
 * Galerie Filser & Gräf: https://www.filserundgraef.de/
 * Galerie f5,6: http://www.f56.net/
-
+* Galerie Christoph Dürr: http://www.galerie-ch-duerr.de/
+* Galerie Bernd Dürr: http://www.galerie-bernd-duerr.de/
+* Galerie Braun-Falco: http://www.braunfalco.com/
+* Susan Boutwell Gallery: https://susanboutwell.com/
+* Galerie Andreas Binder: https://www.galerieandreasbinder.de/
+* Galerie Biedermann: http://www.artnet.com/galleries/galerie-biedermann
+* Galerie Bender: https://www.galerie-bender.de/
+* Galerie Ruetz: https://galerie-ruetz.de/
+* American Contemporary Art Gallery: https://americancontemporaryartgallery.com/
+* Ambacher Contemporary: http://www.ambacher-contemporary.de/
 
 ## Boroughs
 
