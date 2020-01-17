@@ -124,6 +124,18 @@ Links and books to all things Munich, Germany in English.
 * Galerie Sabine Knust: http://www.sabineknust.com/
 * Galerie Klüser: https://www.galerieklueser.de/
 * Galerie Carol Johnssen: https://www.artcarol.de/
+* Galerie Jahn und Jahn: https://jahnundjahn.com/en
+* Galerie Stephen Hoffman: https://galeriehoffman.com/
+* Galerie Heufelder: http://www.galerie-heufelder.de/
+* Heitsch Galerie: https://www.heitschgalerie.de/en/
+* Francoise Heitsch Galerie: http://francoiseheitsch.de/
+* Galerie Heckenhauer: http://www.heckenhauer.net/
+* Galerie Hasenclever: http://www.hasencleverart.com/
+* Häusler Contemporary: https://www.haeusler-contemporary.com/home_en/
+* Barbara Gross Galerie: http://www.barbaragross.de/
+* Galerie Max Weber Six Friedrich: http://maxwebersixfriedrich.com/
+* Galerie Filser & Gräf: https://www.filserundgraef.de/
+* Galerie f5,6: http://www.f56.net/
 
 
 ## Boroughs
