@@ -103,6 +103,18 @@ Links and books to all things Munich, Germany in English.
 
 ## Art Galleries
 
+* Galerie Wittenbrink: https://www.galeriewittenbrink.de/
+* Galerie Fenna Wehlau: https://www.galerie-wehlau.de/
+* Galerie Rupert Walser: http://www.rupertwalser.com/
+* Galerie Stefan Vogdt: https://www.galerie-vogdt.de/
+* Galerie Thomas: https://www.galerie-thomas.de
+* Galerie Tanit: https://www.galerietanit.com/
+* Galerie Florian Sundheimer: http://www.sundheimer.de/
+* Walter Storms Galerie: https://www.storms-galerie.de/
+* Gudrun Spielvogel Galerie: https://galerie-gs.de
+* Smudajescheck Galerie: https://www.smudajescheck.com/ 
+
+
 ## Boroughs
 
 ## Videos
@@ -141,7 +153,7 @@ Geschichte der Stadt München, Georg Reichlmayr, Sutton Verlag, 2018
 
 Maxvorstadt. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2012
 
-Haidhausen. Reüseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2013
+Haidhausen. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2013
 
 Giesing. Reiseführer für Münchner, Martin Arz, Hirschkäfer Verlag, 2014
 
