@@ -113,6 +113,17 @@ Links and books to all things Munich, Germany in English.
 * Walter Storms Galerie: https://www.storms-galerie.de/
 * Gudrun Spielvogel Galerie: https://galerie-gs.de
 * Smudajescheck Galerie: https://www.smudajescheck.com/ 
+* Schellmann Art: https://www.schellmannart.com/
+* Galerie Karin Sachs: http://www.galeriekarinsachs.de/
+* Galerie Rieder: https://galerierieder.de/
+* Galerie Rettberg: https://www.galerie-rettberg.de/
+* Galerie Christian Pixis: http://www.christianpixis.de/
+* Galerie Jahn Pfefferle: https://www.galeriejahnpfefferle.com/en
+* Galerie Maurer Zilioli: https://www.maurer-zilioli.com/en/
+* Galerie Maulberger: https://maulberger.de/
+* Galerie Sabine Knust: http://www.sabineknust.com/
+* Galerie Klüser: https://www.galerieklueser.de/
+* Galerie Carol Johnssen: https://www.artcarol.de/
 
 
 ## Boroughs
